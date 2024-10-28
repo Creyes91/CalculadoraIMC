@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalculadorIMC</string>
+    <string name="datoAltura">Altura:</string>
+    <string name="datoPeso">Peso:</string>
+    <string name="txtMale">Hombre</string>
+    <string name="txtFemale">Mujer</string>
+    <string name="uWeight">Peso bajo</string>
+    <string name="nWeight">Peso Normal</string>
+    <string name="eWeight">Sobrepeso</string>
+    <string name="Obesity">Obesidad</string>
+    <string name="calc">Calcular</string>
+</resources>

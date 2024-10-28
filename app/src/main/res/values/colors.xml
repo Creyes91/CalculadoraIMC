@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="appColor">#282A2C</color>
+    <color name="textColor">#573C87</color>
+    <color name="btnColor">#534073</color>
+    <color name="LyColor">#CDC6C6</color>
+    <color name="uWeight">#2B91BF</color>
+    <color name="nWeight">#4CAF50</color>
+    <color name="eWeight">#B8802D</color>
+    <color name="Obesity">#CC2215</color>
+
+
+
+
+</resources>
